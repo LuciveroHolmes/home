@@ -1,0 +1,26 @@
+* {
+  background-color: bisque;
+}
+p {
+  font-size: 20px;
+  font-family: lucida handwriting;
+}
+#p1,
+#p2,
+#p3,
+#p4 {
+  background-color: pink;
+  color: black;
+}
+a[href] {
+  background-color: pink;
+  color: gold;
+}
+#head1:hover {
+  background-color: white;
+  color: pink;
+}
+#head2:hover {
+  background-color: white;
+  color: pink;
+}
